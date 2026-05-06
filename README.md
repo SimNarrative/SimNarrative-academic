@@ -1,32 +1,27 @@
-# Sim‑narrative: Academic Research Repository
+# 📚 SimNarrative / academic
 
-A collection of academic works on the **sim‑narrative method**: term papers, theses, essays, analysis templates, and research materials.
+A collection of academic works on the sim‑narrative method: term papers, theses, essays, analysis templates.  
+Materials for students, teachers and researchers of the new literary toolkit.
 
-## Contents
+## Related projects
 
-- `templates/` — templates for course papers, diploma theses, and layer analysis.
-- `examples/` — sample student works (term papers, graduation theses) on sim‑narrative as a literary method and genre.
-- `sources/` — bibliography and reference lists.
+- [Official sim‑narrative website](https://simnarrative.github.io/) – main page of the ecosystem.
+- [Philosophical manifesto](https://simnarrative.github.io/philosophy-manifesto-en.html) – "Lifelong Chat".
+- [Literary manifesto](https://simnarrative.github.io/literary-manifesto-en.html) – three layers, branches, ethics.
+- [AI manifesto](https://simnarrative.github.io/ai-manifesto-en.html) – multi‑layered texts for AI training.
+- [Story collection](https://simnarrative.github.io/stories-collection-en.html) – 12 living proofs of the method.
 
-## Purpose
+## Repository contents
 
-This repository is intended for:
-- Students and researchers studying new literary methods.
-- Professors looking for teaching materials on sim‑narrative.
-- Writers who want to see academic validation of the method.
+- `/templates` – term paper and thesis templates.
+- `/examples` – ready‑made analyses of stories using the method.
+- `/sources` – bibliography and additional materials.
 
 ## License
 
-Unless otherwise noted, content is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-## Related
-
-- [Official sim‑narrative website](https://simnarrative.github.io/)
-- [Philosophy manifesto](https://github.com/SimNarrative/philosophy)
-- [Literary manifesto](https://github.com/SimNarrative/literary-manifesto)
-- [AI manifesto](https://github.com/SimNarrative/ai-manifesto)
-- [Story collection](https://github.com/SimNarrative/stories)
+All content is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+Author: Andrey Narrativ.
 
 ---
 
-© 2025 Andrey Narrativ | [GitHub Organization](https://github.com/SimNarrative)
+*This repository is being filled gradually. If you wish to contribute or suggest a topic for a term paper / thesis – open an Issue or Pull Request.*
